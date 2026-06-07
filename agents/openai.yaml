@@ -1,0 +1,4 @@
+interface:
+  display_name: "SRE Incident Copilot"
+  short_description: "告警排障 / incident response assistant"
+  default_prompt: "Use $sre-incident-copilot to triage a Kubernetes or Prometheus incident and draft a concise postmortem."
